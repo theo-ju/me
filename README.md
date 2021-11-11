@@ -1,1 +1,3 @@
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="tae-hoon-ju-6b3063134" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/tae-hoon-ju-6b3063134?trk=profile-badge">Tae-Hoon Ju</a></div>
+              
